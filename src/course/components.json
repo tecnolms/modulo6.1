@@ -1,0 +1,2002 @@
+[{
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Instrucciones de Navegación",
+        "layout": "full",
+        "text": "",
+        "img": {
+            "src": "instructions.png",
+            "alt": "Gif de Bienvenida"
+        },
+        "_route": 1,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-2",
+        "_route": 2,
+        "parentId": "m-1",
+        "type": "collapse",
+        "title": "Objetivos",
+        "text": "Al finalizar esta primera parte módulo, usted estará en capacidad de :",
+        "instruction": "Haga clic en <b>cada signo +</b> para desplegar la información",
+        "items": [{
+                "id": 0,
+                "title": "Objetivo 1",
+                "text": "Revisar visualmente la instalación según sea necesario.",
+                "isActive": true
+            },
+            {
+                "id": 1,
+                "title": "Objetivo 2",
+                "text": "Realizar procedimientos de manejo de tanques.",
+                "isActive": false
+            },
+            {
+                "id": 2,
+                "title": "Objetivo 3",
+                "text": "Operar válvulas manualmente o por forma remota.",
+                "isActive": false
+            }
+        ],
+        "audio": ""
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Introducción al módulo",
+        "layout": "full",
+        "text": "",
+        "img": {
+            "src": "intro1.png",
+            "alt": ""
+        },
+        "_route": 3,
+        "fuente": "",
+        "audio": {
+            "src": "M6_7intro.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Contenido del módulo",
+        "layout": "full",
+        "text": "",
+        "img": {
+            "src": "cont1.png",
+            "alt": ""
+        },
+        "_route": 4,
+        "fuente": "",
+        "audio": {
+            "src": "M6_8.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Iniciemos con el tema 1: inspecciones visuales a las instalaciones",
+        "layout": "full",
+        "text": "",
+        "img": {
+            "src": "tem1.png",
+            "alt": ""
+        },
+        "_route": 5,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-15",
+        "_route": 6,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Inspecciones visuales a las instalaciones ",
+        "text": "",
+        "instruction": "",
+        "items": [{
+                "id": 0,
+                "img": {
+                    "src": "pg1/1.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "",
+                    "text": "",
+                    "img": {
+                        "src": "",
+                        "alt": ""
+                    }
+                }
+            },
+            {
+                "id": 1,
+                "img": {
+                    "src": "pg1/3.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "",
+                    "text": "Aunque las empresas de oleoductos tienen sistemas de monitoreo altamente técnicos que les permiten hacer un seguimiento de cada faceta posible de las operaciones de los oleoductos, los sistemas computarizados cometen errores y a veces emplean y reciben lecturas falsas. En ocasiones es necesario enviar empleados para revisar unidades y equipos en particular, de manera que se puedan entender las condiciones reales. Entonces se pueden tomar acciones efectivas. ",
+                    "img": {
+                        "src": "pg1/3.png",
+                        "alt": ""
+                    }
+                }
+            }
+
+        ],
+
+        "graphic": {
+            "src": "pg1/2.png",
+            "alt": ""
+        },
+
+        "audio": ""
+    },
+    {
+        "id": "c-15",
+        "_route": 7,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Inspecciones visuales periódicas",
+        "text": "Las empresas y el Departamento de Transporte de los Estados Unidos (DOT) establecen inspecciones visuales programadas con regularidad, para determinar que las instalaciones se mantengan en condiciones apropiadas",
+        "instruction": "",
+        "items": [{
+                "id": 0,
+                "img": {
+                    "src": "pg2/0.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "",
+                    "text": "",
+                    "img": {
+                        "src": "",
+                        "alt": ""
+                    }
+                }
+            },
+            {
+                "id": 1,
+                "img": {
+                    "src": "pg2/2.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "¿Quién realiza la inspección?",
+                    "text": "En un Terminal, la puede realizar el personal designado. En una planta, por lo general se designa al operador de campo para inspeccionar y realizar las posibles reparaciones.",
+                    "img": {
+                        "src": "pg2/2.png",
+                        "alt": ""
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "img": {
+                    "src": "pg2/3.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "Las inspecciones de rutina son necesarias para:",
+                    "text": "<ul><li>Asegurar que las instalaciones se mantengan conforme a los estándares de seguridad.</li><li>Que tengan una apariencia acorde con la imagen de la empresa y se evite el vandalismo y los actos ilegales. </li><li>Observar situaciones cuestionables, se programan las reparaciones.</li><li>Se envían los informes y documentación apropiados.</li></ul>",
+                    "img": {
+                        "src": "pg1/3.png",
+                        "alt": ""
+                    }
+                }
+            }
+
+        ],
+
+
+        "graphic": {
+            "src": "pg2/1.png",
+            "alt": ""
+        },
+
+        "links": [{
+            "src": "slide12.pdf",
+            "img": "pg2/4.png"
+        }],
+
+        "audio": ""
+    },
+
+    {
+        "id": "c-6",
+        "parentId": "m-1",
+        "type": "media",
+        "title": "Vigilancia del patio de tanques",
+        "text": "<p>Los Patios de Tanques se deben inspeccionar según los lineamientos de DOT y de la Empresa después de cada turno y antes de realizar ingresos en la bitácora registrando el nombre del empleado que realiza la inspección y la hora de la misma.</p><p>En la siguiente animación conocerá los elementos que debe contemplar la inspección en el patio de tanques.</p>",
+        "video": {
+            "sources": [{
+                "src": "video_15_M6.mp4",
+                "type": "video/mp4"
+            }],
+            "options": {
+                "poster": "video1.jpg",
+                "autoplay": false,
+                "volume": 0.8
+            }
+        },
+        "_route": 8,
+        "fuente": "",
+        "audio": ""
+    },
+    {
+        "id": "c-12",
+        "_route": 9,
+        "parentId": "m-1",
+        "type": "so-in-shot",
+        "title": "Inspecciones de los derechos de vía",
+        "text": "De acuerdo con la normativa 49 CFR 195.412, se requiere que cada operador,<b> con intervalos no mayores de 3 semanas, pero al menos 26 veces cada año calendario</b>, inspeccione las condiciones de la superficie en todo el derecho de vía adyacente a cada oleoducto. A continuación veremos en qué consiste esta inspección. ",
+        "instruction": "Haga clic <b>sobre cada número</b> para recibir la información.",
+        "graphic": {
+            "src": "pg9/0.png",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "icon": {
+                    "src": "pg9/1.png",
+                    "alt": "Numero 1"
+                },
+                "content": {
+                    "src": "pg9/1a.png",
+                    "alt": "Contenido 1"
+                }
+            },
+            {
+                "id": 2,
+                "icon": {
+                    "src": "pg9/2.png",
+                    "alt": "Numero 2"
+                },
+                "content": {
+                    "src": "pg9/2a.png",
+                    "alt": "Contenido 2"
+                }
+            },
+            {
+                "id": 3,
+                "icon": {
+                    "src": "pg9/3.png",
+                    "alt": "Numero 3"
+                },
+                "content": {
+                    "src": "pg9/3a.png",
+                    "alt": "Contenido 3"
+                }
+            },
+            {
+                "id": 4,
+                "icon": {
+                    "src": "pg9/4.png",
+                    "alt": "Numero 4"
+                },
+                "content": {
+                    "src": "pg9/4a.png",
+                    "alt": "Contenido 4"
+                }
+            },
+            {
+                "id": 5,
+                "icon": {
+                    "src": "pg9/5.png",
+                    "alt": "Numero 5"
+                },
+                "content": {
+                    "src": "pg9/5a.png",
+                    "alt": "Contenido 5"
+                }
+            },
+            {
+                "id": 6,
+                "icon": {
+                    "src": "pg9/6.png",
+                    "alt": "Numero 6"
+                },
+                "content": {
+                    "src": "pg9/6a.png",
+                    "alt": "Contenido 6"
+                }
+            }
+        ],
+        "audio": {
+            "src": "M6_16.mp3"
+        }
+    },
+    {
+        "id": "c-4",
+        "parentId": "m-1",
+        "type": "slider",
+        "title": "Monitoreo de separadores de aceite / agua",
+        "class": "bg-green",
+        "text": "",
+        "instruction": "Haga clic <b>las flechas</b> de la imagen para obtener más información.<p>Al terminar de leer la información haga clic en la flecha hacia adelante  para obtener más información.</p>",
+        "items": [{
+                "id": 0,
+                "title": "",
+                "_subtype": "",
+                "text": "<p>Los separadores de aceite / agua utilizan la diferencia en la gravedad API para extraer el agua del aceite. Los separadores son tuberías largas con secciones de distribución perforadas a lo largo de la tubería. Las salidas de aceite y agua se separan en el extremo del dispositivo.</p><p>El agua se asienta en la parte inferior del separador a través de las ranuras u hoyos en el divisor y se drena hacia un sumidero o hacia un tanque de almacenamiento. El aceite posteriormente fluye hacia el tanque de almacenamiento.</p>",
+                "graphic": {
+                    "src": "pg10/1.png",
+                    "alt": "",
+                    "source": ""
+                }
+            },
+            {
+                "id": 1,
+                "title": "",
+                "_subtype": "",
+                "text": "<p>Los separadores de aceite / agua se deben monitorear con regularidad debido a que su rata de llenado es incierta.</p><p>Si no se verifican y drenan antes de que pase un bache grande a través de éstos, la unidad de almacenamiento puede presentar un sobreflujo.</p><p>Los sumideros por lo general contienen los líquidos en una unidad a nivel del suelo con una gran abertura superior.</p><p>Si no se drena el sumidero y los líquidos no se desechan apropiadamente, la unidad puede sobrellenarse, rebosarse y contaminar el área a su alrededor.</p>",
+                "graphic": {
+                    "src": "pg10/2.png",
+                    "alt": "",
+                    "source": ""
+
+                }
+
+            }
+        ],
+        "_route": 10,
+        "audio": ""
+    },
+    {
+        "id": "c-28",
+        "_route": 11,
+        "parentId": "m-3",
+        "type": "mcq",
+        "title": "Actividad de aprendizaje",
+        "text": "<em><b>Es hora de poner en práctica sus aprendizajes.</b></em><br><br><b>Escoge la respuesta que consideres correcta y haz clic en comprobar para validarla.</b>",
+        "question": "Las inspecciones periódicas a las instalaciones incluyen:",
+        "options": [{
+                "id": 1,
+                "text": "Apariencia general.",
+                "shouldBeSelected": true
+            },
+            {
+                "id": 2,
+                "text": "Revisión de equipos de bombeo.",
+                "shouldBeSelected": false
+            },
+            {
+                "id": 4,
+                "text": "Monitoreo de propiedades químicas.",
+                "shouldBeSelected": false
+            }
+
+        ],
+        "txtButton": "Comprobar",
+        "feedbackTrue": "Las inspecciones visuales periódicas a las instalaciones, incluyen las siguientes tres categorías: apariencia general, examen mecánico y condiciones de propiedades físicas.",
+        "graphic": {
+            "src": "mq1.png",
+            "alt": "Actividad de aprendizaje"
+        },
+
+        "audio": {
+            "src": "M6_24.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Continuemos con el tema 2: Verificar la capacidad de un tanque y su espacio disponible ",
+        "layout": "full",
+        "text": "Los subtemas que se abordarán a continuación son:",
+        "img": {
+            "src": "pg11.png",
+            "alt": ""
+        },
+        "_route": 12,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-28",
+        "_route": 13,
+        "parentId": "m-1",
+        "type": "pines",
+        "title": "Verificar la capacidad de un tanque y su espacio disponible",
+        "text": "Una vez el programador ha ordenado un despacho, Operaciones debe prepararse para recibir el mencionado envío. Se debe <b>medir los tanques, tomar las temperaturas, establecer las viscosidades, los contenidos de sedimento y agua.</b>",
+        "instruction": "Haga clic <b>en cada número</b> para ver la información.",
+        "hotgraphic": {
+            "src": "pg13/1.png",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "title": "",
+                "text": "<p>Se debe medir los tanques de producto para determinar que haya disponibilidad de almacenamiento.</p><p>Si no hay disponibilidad del almacenamiento necesario, el personal de Operaciones debe notificar de inmediato al programador.</p>",
+                "position": {
+                    "x": 28,
+                    "y": 57
+                }
+            },
+            {
+                "id": 2,
+                "title": "",
+                "text": "<ul><li>La medición del nivel en el tanque.</li><li>La toma de temperaturas del producto.</li><li>La toma manual de muestras del producto.</li></ul><p>Son procedimientos relacionados con el manejo del patio de tanques, tanto por la manera en que se realizan como por los aspectos de seguridad que se deben tener en cuenta. <b>Los tres procedimientos son extremadamente peligrosos.</b></p>.",
+                "position": {
+                    "x": 59,
+                    "y": 59
+                }
+            },
+            {
+                "id": 3,
+                "title": "",
+                "text": "<p>La misma persona, generalmente conocida como Medidor, es el responsable de realizar los tres procedimientos mientras se encuentra en el tanque:</p><ul><li><li>Mediciones de nivel</li><li>Toma de temperaturas de producto</li><li>Toma manual de muestrasul</li></ul>",
+                "position": {
+                    "x": 71,
+                    "y": 53
+                }
+            },
+            {
+                "id": 4,
+                "title": "",
+                "text": "Como una calificación para cualquier declaración de seguridad, la relación tipo de tanque - producto específico es tomada de una fuente de medición experimentada. Esto significa <b>que las medidas de seguridad deben ser diferentes para tanques con diferentes diseños e incluso para tanques iguales con diferentes niveles de llenado, aunque contengan el mismo producto.</b>",
+                "position": {
+                    "x": 69,
+                    "y": 42
+                }
+            },
+            {
+                "id": 5,
+                "title": "",
+                "text": "Los tanques con diseños modernos no son tan peligrosos como los modelos antiguos con techos flotantes, aunque los dos pueden contener el mismo producto. Actualmente, un mayor número de tanques se construyen con equipos para prevenir las condiciones peligrosas.",
+                "position": {
+                    "x": 50,
+                    "y": 38
+                }
+            },
+            {
+                "id": 6,
+                "title": "",
+                "text": "El medidor o técnico con esa responsabilidad, trabaja en los patios de la refinería, el Terminal o se desplazar a Patios de Tanques alejados, estaciones e instalaciones <b>siguiendo los procedimientos de seguridad establecidos.</b> La mayor parte del tiempo trabaja solo. Por lo tanto, debe tener mucho cuidado; si se presenta un accidente en el campo, ya puede tardar mucho tiempo para que lo encuentren y más tiempo aún para que el personal de rescate llegue al lugar.",
+                "position": {
+                    "x": 22,
+                    "y": 39.5
+                }
+            },
+            {
+                "id": 7,
+                "title": "¡Advertencia!",
+                "text": "Los tanques generan niveles letales de electricidad estática. Todo el personal involucrado en la operación de tanques debe tener esto muy en cuenta en todo momento. Desde el principio hasta el fin, se debe mantener una vigilancia de los procedimientos exactos de seguridad y la utilización del equipo de protección personal (EPP). No hay lugar para errores.",
+                "position": {
+                    "x": 66,
+                    "y": 68
+                }
+            }
+
+        ],
+        "fuente": "",
+        "note": " ",
+        "audio": {
+            "src": "M6_27.mp3"
+        }
+
+    },
+    {
+        "id": "c-28",
+        "_route": 14,
+        "parentId": "m-1",
+        "type": "pines",
+        "title": "Procedimientos de seguridad en patios de tanques",
+        "text": "La seguridad en Patios de Tanques es muy importante. Por eso el personal debe ser muy cuidadoso al observar los procedimientos de seguridad específicos en cada sitio.",
+        "instruction": "Haga clic <b>en cada número</b> para ver la información.",
+        "hotgraphic": {
+            "src": "pg14/1.png",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "title": "",
+                "text": "<p>Estar preparado para lo inesperado. Cada empleado debe estar familiarizado con la disposición de la instalación antes de ingresar, a pesar de qué tan repetitivamente lo haga.</p><p>Las diferentes instalaciones y áreas de trabajo frecuentemente son similares y pueden tornarse confusas en situaciones de emergencia.</p>",
+                "position": {
+                    "x": 19,
+                    "y": 39
+                }
+            },
+            {
+                "id": 2,
+                "title": "",
+                "text": "Repasar constantemente las rutas de escape y la ubicación de las áreas de seguridad, antes de ingresar a la instalación o al área de trabajo.",
+                "position": {
+                    "x": 19,
+                    "y": 61
+                }
+            },
+            {
+                "id": 3,
+                "title": "",
+                "text": "Asegurar que el operador entienda por completo los procedimientos de evacuación y que pueda identificar las áreas seguras de la estación.",
+                "position": {
+                    "x": 19,
+                    "y": 83
+                }
+            }
+
+        ],
+        "fuente": "",
+        "note": " ",
+        "audio": {
+            "src": "M6_35.mp3"
+        }
+    },
+    {
+        "id": "c-27",
+        "_route": 15,
+        "parentId": "m-3",
+        "type": "infographic",
+        "title": "Equipo de protección personal (epp)",
+        "text": "La medición manual, la toma de temperaturas y la toma manual de muestras se deben llevar a cabo con mucho cuidado. La gerencia debe asegurarse que todo el personal que hace parte de estas <b>operaciones cuente con todo el EPP apropiado y haya recibido el entrenamiento</b>, se le haya probado su idoneidad y haya sido preparado para utilizarlo de ser necesario.",
+        "instruction": "Pase el ratón <b>encima</b> de la imágen para aumentar el tamaño del infográfico",
+        "pdf": {
+            "src": "slide39.pdf",
+            "name": ""
+        },
+        "graphic": {
+            "src": "infographic.png",
+            "alt": ""
+        },
+        "infopreview": {
+            "src": "imgpdf/slide39.png",
+            "src2x": "imgpdf/slide39a.png",
+            "alt": ""
+        },
+
+        "audio": {
+            "src": "M6_39.mp3"
+        }
+    },
+    {
+        "id": "c-13",
+        "_route": 16,
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Comunicaciones",
+        "layout": "left",
+        "text": "<p>Antes de iniciar cualquier labor, el personal asignado debe obtener los permisos de trabajo apropiados y exigidos. Después de la llegada al Patio de Tanques, usted debe verificar:</p><ul><li>Que el tanque especificado se encuentre aislado.</li><li>Que se hayan apagado los mezcladores por al menos una hora antes (cuando sea del caso).</li><li>Que el área sea segura para el ingreso del personal.</li><li>Que no haya presencia de vapores peligrosos en la atmósfera.</li></ul>",
+        "img": {
+            "src": "pg16.png",
+            "alt": ""
+        },
+        "fuente": ""
+    },
+    {
+        "id": "c-28",
+        "_route": 17,
+        "parentId": "m-1",
+        "type": "pines",
+        "title": "Verificación de los requerimientos de seguridad",
+        "text": "A continuación se enumeran algunos de los requerimientos de seguridad que se deben observar en el patio de tanques.",
+        "instruction": "Haga clic <b>en cada número</b> para ver la información.",
+        "hotgraphic": {
+            "src": "pg17/1.png",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "title": "",
+                "text": "<p>Se debe medir los tanques de producto para determinar que haya disponibilidad de almacenamiento.</p><p>Si no hay disponibilidad del almacenamiento necesario, el personal de Operaciones debe notificar de inmediato al programador.</p>",
+                "position": {
+                    "x": 86,
+                    "y": 29
+                }
+            },
+            {
+                "id": 2,
+                "title": "",
+                "text": "<ul><li>La medición del nivel en el tanque.</li><li>La toma de temperaturas del producto.</li><li>La toma manual de muestras del producto.</li></ul><p>Son procedimientos relacionados con el manejo del patio de tanques, tanto por la manera en que se realizan como por los aspectos de seguridad que se deben tener en cuenta. <b>Los tres procedimientos son extremadamente peligrosos.</b></p>.",
+                "position": {
+                    "x": 86,
+                    "y": 37
+                }
+            },
+            {
+                "id": 3,
+                "title": "",
+                "text": "<p>La misma persona, generalmente conocida como Medidor, es el responsable de realizar los tres procedimientos mientras se encuentra en el tanque:</p><ul><li><li>Mediciones de nivel</li><li>Toma de temperaturas de producto</li><li>Toma manual de muestrasul</li></ul>",
+                "position": {
+                    "x": 70,
+                    "y": 45
+                }
+            },
+            {
+                "id": 4,
+                "title": "",
+                "text": "Como una calificación para cualquier declaración de seguridad, la relación tipo de tanque - producto específico es tomada de una fuente de medición experimentada. Esto significa <b>que las medidas de seguridad deben ser diferentes para tanques con diferentes diseños e incluso para tanques iguales con diferentes niveles de llenado, aunque contengan el mismo producto.</b>",
+                "position": {
+                    "x": 70,
+                    "y": 52
+                }
+            },
+            {
+                "id": 5,
+                "title": "",
+                "text": "Los tanques con diseños modernos no son tan peligrosos como los modelos antiguos con techos flotantes, aunque los dos pueden contener el mismo producto. Actualmente, un mayor número de tanques se construyen con equipos para prevenir las condiciones peligrosas.",
+                "position": {
+                    "x": 70,
+                    "y": 60
+                }
+            },
+            {
+                "id": 6,
+                "title": "",
+                "text": "El medidor o técnico con esa responsabilidad, trabaja en los patios de la refinería, el Terminal o se desplazar a Patios de Tanques alejados, estaciones e instalaciones <b>siguiendo los procedimientos de seguridad establecidos.</b> La mayor parte del tiempo trabaja solo. Por lo tanto, debe tener mucho cuidado; si se presenta un accidente en el campo, ya puede tardar mucho tiempo para que lo encuentren y más tiempo aún para que el personal de rescate llegue al lugar.",
+                "position": {
+                    "x": 70,
+                    "y": 67
+                }
+            }
+
+
+        ],
+        "fuente": "",
+        "note": " "
+    },
+    {
+        "id": "c-13",
+        "_route": 18,
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Alivio inesperado en el tanque",
+        "layout": "full",
+        "text": "En caso de emergencia, puede presentarse un escape de producto del tanque de forma inesperada. Por tanto, el personal presente alrededor del tanque debe tener un respirador con suministro de aire a su alcance y abandonar el área de inmediato en dirección contraria al viento.",
+        "img": {
+            "src": "pg18.png",
+            "alt": ""
+        },
+        "fuente": ""
+    },
+    {
+        "id": "c-27",
+        "_route": 19,
+        "parentId": "m-3",
+        "type": "infographic",
+        "title": "Herramientas y equipos requeridos",
+        "text": "Como veremos la lista de herramientas y equipos requeridos para realizar estos tres procedimientos no es extensa. Lo más importante, sin embargo, es la buena calidad de las herramientas. No se permite equipos dañados.",
+        "instruction": "",
+        "pdf": {
+            "src": "slide49.pdf",
+            "name": ""
+        },
+        "graphic": {
+            "src": "imgpdf/infographic2.png",
+            "alt": ""
+        },
+        "infopreview": {
+            "src": "imgpdf/slide49.png",
+            "src2x": "imgpdf/slide49a.png",
+            "alt": ""
+        },
+
+        "audio": ""
+    },
+    {
+        "id": "c-12",
+        "_route": 20,
+        "parentId": "m-1",
+        "type": "so-in-shot",
+        "title": "Aislamiento del tanque",
+        "text": "Antes de medir el nivel de producto en el tanque, tomar la temperatura del producto o realizar una toma manual de muestras, se debe aislar el tanque, si es posible hacerlo. Tenga en cuenta que algunos tanques no se pueden aislar. Veamos algunas recomendaciones importantes para realizar este procedimiento.",
+        "instruction": "Haga clic <b>sobre cada número</b> para recibir la información.",
+        "graphic": {
+            "src": "pg20/0.png",
+            "layout": "full",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "icon": {
+                    "src": "pg20/1.png",
+                    "alt": "Numero 1"
+                },
+                "content": {
+                    "src": "pg20/1a.png",
+                    "alt": "Contenido 1"
+                }
+            },
+            {
+                "id": 2,
+                "icon": {
+                    "src": "pg20/2.png",
+                    "alt": "Numero 2"
+                },
+                "content": {
+                    "src": "pg20/2a.png",
+                    "alt": "Contenido 2"
+                }
+            },
+            {
+                "id": 3,
+                "icon": {
+                    "src": "pg20/3.png",
+                    "alt": "Numero 3"
+                },
+                "content": {
+                    "src": "pg20/3a.png",
+                    "alt": "Contenido 3"
+                }
+            }
+
+        ],
+        "audio": {
+            "src": "M6_50.mp3"
+        }
+    },
+    {
+        "id": "c-27",
+        "_route": 21,
+        "parentId": "m-3",
+        "type": "infographic",
+        "title": "Procedimiento de medición manual",
+        "text": "",
+        "instruction": "",
+        "pdf": {
+            "src": "slide54.pdf",
+            "name": ""
+        },
+        "graphic": {
+            "src": "pg21/0.png",
+            "alt": ""
+        },
+        "infopreview": {
+            "src": "pg21/1.png",
+            "src2x": "pg21/1a.png",
+            "alt": ""
+        },
+
+        "audio": ""
+    },
+    {
+        "id": "c-15",
+        "_route": 22,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "full",
+        "title": "Medición automática",
+        "text": "<p>La mayoría de tanques cuenta con medidores automáticos. Debido a su inexactitud inherente, <b>no se puede aceptar medidores automáticos de tanques para medición de Transferencia de Custodia</b>. Con una periodicidad establecida se debe calibrar todo el equipo de medición automático mediante la comparación con el uso de la medición manual.</p>",
+        "instruction": "",
+        "items": [{
+            "id": 0,
+            "img": {
+                "src": "pg22/2.png",
+                "alt": ""
+            },
+            "modal": {
+                "title": "Para recordar",
+                "text": "<p><b>Se puede utilizar medidores de nivel automáticos para Transferencia de Custodia.</b> En algunos casos, la presencia de sulfuro de hidrógeno (H2S) hace necesario utilizar un SCBA (aparato de respiración auto contenido) para medir manualmente una venta de producto desde un tanque.</p><p>Sin embargo, esta aceptación se tramita individualmente para cada caso, o según las políticas de la empresa y.Deben acordarse los detalles entre todas las partes interesadas en la Transferencia.</p>",
+                "img": {
+                    "src": "pg22/2.png",
+                    "alt": ""
+                }
+            }
+        }],
+
+        "graphic": {
+            "src": "pg22/1.png",
+            "alt": "Identificar productos marcadores"
+        },
+        "audio": {
+            "src": "M6_55.mp3"
+        }
+    },
+    {
+        "id": "c-14",
+        "_route": 23,
+        "parentId": "m-1",
+        "type": "slider",
+        "title": "Medición de tanques con techo flotante",
+        "class": "bg-green",
+        "text": "",
+        "instruction": "Haga clic  sobre <b>las flechas<b> laterales para obtener más información.",
+        "items": [{
+                "id": 0,
+                "layout": "left",
+                "title": "",
+                "_subtype": "",
+                "text": "<p>La entrada o acceso a un tanque con techo flotante está reglamentada por la política de la empresa. Se debe tener en cuenta, que:</p><ul><li>Las mediciones de nivel en tanques con techo flotante se ven afectadas por el peso añadido sobre el techo y por el peso del techo sobre el producto.</li><li>En menor grado, esta situación puede darse en algunos tanques con techos fijos.</li></ul>",
+                "graphic": {
+                    "src": "pg23/1.png",
+                    "alt": "",
+                    "source": ""
+                }
+            },
+            {
+                "id": 1,
+                "title": "",
+                "layout": "left",
+                "_subtype": "",
+                "text": "El peso que se le agrega al techo de un tanque <b>aumentará el desplazamiento del techo y causará que el nivel de un líquido en el tanque se eleve hacia la parte superior de la escotilla.</b> Se debe establecer y reportar cada peso adicional o material presente en el techo tal como lluvias con granizo, material extraño o personal, incluyendo testigos, estudiantes, asistentes y otros. Incluso en tanques de techo fijo, se debe tener la misma cantidad de personal, sobre el tanque, tanto en la medición inicial como en mediciones posteriores.",
+                "graphic": {
+                    "src": "pg23/2.png",
+                    "alt": "",
+                    "source": ""
+                }
+            }
+        ],
+        "audio": ""
+    },
+    {
+        "id": "c-15",
+        "_route": 24,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Monitoreo de aire",
+        "text": "<b>El contenido de aire puede cambiar rápidamente, especialmente cerca de la escotilla.</b> Puede llegar al Límite Mínimo de Explosividad (LEL) sin que el técnico esté consciente de esto, a menos que se mida y monitoree permanentemente este contenido.",
+        "instruction": "",
+        "items": [{
+                "id": 0,
+                "img": {
+                    "src": "pg24/2.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "Tenga en cuenta",
+                    "text": "Se debe monitorear constantemente la zona de respiración debido a que <b>los niveles tóxicos de los vapores afectan la consciencia y el juicio.</b> El personal frecuentemente no cae en cuenta de lo que está sucediendo hasta que se ve afectado y resulta incapacitado. Si no se utiliza un medidor de gas, manual o portátil, el personal debe utilizar un monitor de gas personal, en su ropa cerca del hombro.",
+                    "img": {
+                        "src": "pg24/3.png",
+                        "alt": ""
+                    }
+                }
+            }
+
+
+        ],
+
+        "graphic": {
+            "src": "pg24/1.png",
+            "alt": "Identificar productos marcadores"
+        },
+        "audio": {
+            "src": "M6_59.mp3"
+        }
+    },
+    {
+        "id": "c-15",
+        "_route": 25,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Abrir la escotilla",
+        "text": "<p>Antes de medir el nivel de producto en un tanque, se debe abrir la escotilla. Es posible que haya una descarga fuerte de vapores desde la escotilla cuando se abre. Con frecuencia, estos vapores contienen partículas de condensado que se descargan en dirección ascendente.<p><br>",
+        "instruction": "",
+        "links": [{
+            "src": "slide61.pdf",
+            "img": "pg25/2.png"
+        }],
+
+        "items": [{
+            "id": 0,
+            "img": {
+                "src": "pg25/3.png",
+                "alt": ""
+            },
+            "modal": {
+                "title": "Para recordar",
+                "text": "<p>Tenga presente que el acercamiento a la escotilla debe ser <b>en la misma dirección del viento.</b></p><p>En tanques con techo flotante,<b> puede ser necesario que se abra la escotilla desde la plataforma </b> mediante la utilización de una cuerda unida a ésta.</p> ",
+                "img": {
+                    "src": "pg25/3.png",
+                    "alt": ""
+                }
+            }
+        }],
+
+
+
+        "graphic": {
+            "src": "pg25/1.png",
+            "alt": "Identificar productos marcadores"
+        },
+        "audio": {
+            "src": "M6_61.mp3"
+        }
+    },
+
+    {
+        "id": "c-6",
+        "parentId": "m-1",
+        "type": "media",
+        "title": "Procedimiento de medición ",
+        "text": "",
+        "video": {
+            "sources": [{
+                "src": "video_63_M6.mp4",
+                "type": "video/mp4"
+            }],
+            "options": {
+                "poster": "video1.jpg",
+                "autoplay": false,
+                "volume": 0.8
+            }
+        },
+        "_route": 26,
+        "fuente": "",
+        "audio": ""
+    },
+    {
+        "id": "c-28",
+        "_route": 27,
+        "parentId": "m-1",
+        "type": "pines",
+        "title": "Toma de la lectura",
+        "text": "<p>Hay dos tipos de medición manual de tanques generalmente aceptados. Se denominan Medición a Fondo (Innage) y Medición a Vacío (Outage). La medición a vacío se puede realizar únicamente en tanques con techo fijo o en tanques con techo flotante con plataformas de medición estacionaria.</p><p>En la mayoría de los casos, se prefiere la medición a fondo a la medición a vacío debido a que se puede medir cualquier acumulación de sedimento y de agua(S & W) en el fondo de los tanques.La medición manual se realiza de acuerdo con el Estándar API 2545, Método para Medición de Petróleo y Productos de Petróleo.</p>",
+        "instruction": "Haga clic <b>en cada número</b> para ver la información.",
+        "hotgraphic": {
+            "src": "pg27.png",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "title": "",
+                "text": "Para garantizar la precisión requerida en la lectura de la distancia en la cinta, ésta se debe elevar lo suficiente, preferiblemente, se toma la medición cuando el ojo forma un ángulo de 90° con respecto a la cinta que se está leyendo.",
+                "position": {
+                    "x": 25,
+                    "y": 56
+                }
+            },
+            {
+                "id": 2,
+                "title": "",
+                "text": "Al sacar la cinta del tanque, se debe limpiar con un trapo que  envuelve la cinta, halando la cinta a través de éste.",
+                "position": {
+                    "x": 25,
+                    "y": 62
+                }
+            },
+            {
+                "id": 3,
+                "title": "",
+                "text": "<P>Se debe registrar cada medición y repetir el procedimiento hasta que se obtengan dos lecturas idénticas de manera consecutiva a 1/8 de pulgada o a 0.01 pies, dependiendo de la cinta que se está utilizando. Se prefiere las cintas graduadas con variaciones de 0.01 pies.</P> <b> Nota: </b> en Colombia las cintas están graduadas generalmente en centímetros, igual que las tablas de aforo de los tanques.",
+                "position": {
+                    "x": 25,
+                    "y": 68
+                }
+            },
+            {
+                "id": 4,
+                "title": "",
+                "text": "Todos los datos obtenidos se deben <b>registrar de inmediato para minimizar la posibilidad de errores u olvidos.</b> Se debe portar una pequeña libreta de bolsillo en la cual se registrará y se llevará fácilmente todas las lecturas y datos.<p> No importa cómo se documenten las lecturas siempre y cuando se escriban.</p>",
+                "position": {
+                    "x": 50,
+                    "y": 59
+                }
+            },
+            {
+                "id": 5,
+                "title": "",
+                "text": "Todas las cintas deben ser calibradas con regularidad mediante su comparación con una cinta maestra certificada para garantizar su precisión.",
+                "position": {
+                    "x": 50,
+                    "y": 65
+                }
+            }
+
+        ],
+        "fuente": "",
+        "note": " ",
+        "audio": {
+            "src": "M6_64.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Terminar la medición y limpiar",
+        "layout": "full",
+        "text": "",
+        "img": {
+            "src": "pg28.png",
+            "alt": ""
+        },
+        "_route": 28,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-15",
+        "_route": 29,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Toma de la temperatura del tanque",
+        "text": "",
+        "instruction": "",
+        "links": [{
+            "src": "slide71.pdf",
+            "img": "pg29/2.png"
+        }],
+
+        "items": [{
+                "id": 0,
+                "img": {
+                    "src": "pg29/1.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "",
+                    "text": "",
+                    "img": {
+                        "src": "",
+                        "alt": ""
+                    }
+                }
+            },
+
+            {
+                "id": 1,
+                "img": {
+                    "src": "pg25/3.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "Para recordar",
+                    "text": "Los requerimientos de seguridad, el EPP, las notificaciones y los permisos de trabajo necesarios son iguales que para una medición de nivel en tanques. Debe recordarse que dichos requerimientos con frecuencia varían según el tipo de tanque y son específicos para cada producto.",
+                    "img": {
+                        "src": "pg25/3.png",
+                        "alt": ""
+                    }
+                }
+            }
+        ],
+
+        "graphic": {
+            "src": "pg29/0.png",
+            "alt": "Identificar productos marcadores"
+        },
+        "audio": {
+            "src": "M6_71.mp3"
+        }
+    },
+
+    {
+        "id": "c-3",
+        "parentId": "m-1",
+        "type": "slider",
+        "title": "Termómetros",
+        "class": "bg-green",
+        "text": "<b>Los termómetros para determinar la temperatura en un tanque deben ser del tipo aprobado por ASTM. Haga clic en los puntos señalados en la imagen para conocer las características de los termómetros.</b>",
+        "instruction": "Haga clic  sobre <b>las flechas<b> de la imagen para obtener más información.",
+        "items": [{
+                "id": 0,
+                "title": "",
+                "layout": "full",
+                "text": "",
+                "graphic": {
+                    "src": "pg30/1.png",
+                    "alt": "",
+                    "source": ""
+                }
+            },
+            {
+                "id": 1,
+                "title": "",
+                "layout": "full",
+                "text": "",
+                "graphic": {
+                    "src": "pg30/2.png",
+                    "alt": "",
+                    "source": ""
+                }
+            },
+            {
+                "id": 2,
+                "title": "",
+                "layout": "full",
+                "text": "",
+                "graphic": {
+                    "src": "pg30/3.png",
+                    "alt": "",
+                    "source": ""
+                }
+            },
+            {
+                "id": 3,
+                "title": "",
+                "layout": "full",
+                "text": "",
+                "graphic": {
+                    "src": "pg30/4.png",
+                    "alt": "",
+                    "source": ""
+                }
+            },
+            {
+                "id": 4,
+                "title": "",
+                "layout": "full",
+                "text": "",
+                "graphic": {
+                    "src": "pg30/5.png",
+                    "alt": "",
+                    "source": ""
+                }
+            },
+            {
+                "id": 5,
+                "title": "",
+                "layout": "full",
+                "text": "",
+                "graphic": {
+                    "src": "pg30/6.png",
+                    "alt": "",
+                    "source": ""
+                }
+            }
+        ],
+        "_route": 30,
+        "audio": {
+            "src": "M6_73.mp3"
+        }
+
+    },
+    {
+        "id": "c-28",
+        "_route": 31,
+        "parentId": "m-1",
+        "type": "pines",
+        "title": "Descenso del termómetro",
+        "text": "<br>",
+        "instruction": "Haga clic <b>en cada paso</b> para ver la información sobre descenso del termómetro.",
+        "hotgraphic": {
+            "src": "pg31.png",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "title": "",
+                "text": "Se debe seguir los procedimientos de la empresa para abrir la escotilla.  Acérquese en la misma dirección del viento y recuerde que al abrirlo, puede haber un escape fuerte de vapores.",
+                "position": {
+                    "x": 4,
+                    "y": 17
+                }
+            },
+            {
+                "id": 2,
+                "title": "",
+                "text": "El termómetro tipo copa se descuelga lenta y cuidadosamente por la escotilla, asegurándose de que la cinta o la cuerda de fibra natural continúen haciendo contacto con un punto de tierra.  La persona que mide debe tener cuidado para asegurarse que la posición de su cuerpo es estable.",
+                "position": {
+                    "x": 4,
+                    "y": 30
+                }
+            },
+            {
+                "id": 3,
+                "title": "",
+                "text": "El termómetro tipo copa debe permanecer suspendido en el producto por un período de tiempo especificado por la política de la empresa. El tiempo requerido está en función de la temperatura del aire exterior.  Si hay una gran diferencia entre la temperatura del tanque y la temperatura exterior, tomará más tiempo para que el termómetro se estabilice y muestre una lectura precisa.",
+                "position": {
+                    "x": 4,
+                    "y": 43
+                }
+            },
+            {
+                "id": 4,
+                "title": "",
+                "text": "Se debe repetir este proceso hasta que se obtengan dos lecturas idénticas a la misma profundidad. Se debe sumergir el termómetro a varias profundidades para obtener las lecturas.",
+                "position": {
+                    "x": 4,
+                    "y": 56
+                }
+            },
+            {
+                "id": 5,
+                "title": "",
+                "text": "Todos los datos se registran de inmediato para minimizar la posibilidad de errores u olvidos. Se debe tomar las lecturas al grado Fahrenheit más cercano, y después se promedian las lecturas finales para encontrar la temperatura del producto en el tanque.",
+                "position": {
+                    "x": 4,
+                    "y": 69
+                }
+            },
+            {
+                "id": 6,
+                "title": "",
+                "text": "La conclusión de este procedimiento es igual que para la medición de nivel en el tanque, incluyendo las precauciones de seguridad, el cierre de la escotilla y la manera de abandonar el patio de tanques.",
+                "position": {
+                    "x": 4,
+                    "y": 82
+                }
+            }
+
+
+        ],
+        "fuente": "",
+        "note": " ",
+        "audio": {
+            "src": "M6_78.mp3"
+        }
+    },
+    {
+        "id": "c-27",
+        "_route": 32,
+        "parentId": "m-3",
+        "type": "infographic",
+        "title": "Toma de muestras de un producto en un tanque",
+        "text": "El tercero de los tres procedimientos a tener en cuenta es el proceso manual para la toma de muestras del producto contenido en un tanque. El muestreo es el procedimiento mediante el cual se extraen muestras de producto a diferentes niveles en un tanque para determinar la calidad y el contenido de sedimento y agua en el producto.",
+        "instruction": "",
+        "pdf": {
+            "src": "slide85.pdf",
+            "name": ""
+        },
+        "graphic": {
+            "src": "pg32/0.png",
+            "alt": ""
+        },
+        "infopreview": {
+            "src": "pg32/2.png",
+            "src2x": "imgpdf/negt.png",
+            "alt": ""
+        },
+
+        "audio": ""
+    },
+    {
+        "id": "c-16",
+        "_route": 33,
+        "parentId": "m-1",
+        "type": "canasta",
+        "title": "Actividad de aprendizaje",
+        "text": "¿Qué herramientas y equipos necesitamos para realizar la medición de nivel en el tanque,  tomar  la temperatura del producto en el tanque y la toma manual de muestras del producto?",
+        "instruction": "Arrastre la <b>definición</b> que usted crea correcta a la canasta",
+        "listOptions": [{
+                "id": 1,
+                "label": "Guantes de nitrilo o neopreno, de una calidad suficiente para  proteger contra exposición a químicos, abrasión metálica y descargas de electricidad estática",
+                "_isCorrect": true
+            },
+
+            {
+                "id": 2,
+                "label": "Termómetros certificados con una precisión de más o menos 0.2º F.",
+                "_isCorrect": true
+            },
+
+            {
+                "id": 3,
+                "label": "Cinta de medición aprobada, calibrada con una cinta maestra y con la correspondiente plomada unida a ésta.",
+                "_isCorrect": true
+            },
+            {
+                "id": 4,
+                "label": "Dispositivos para la toma manual de muestras.",
+                "_isCorrect": true
+            },
+            {
+                "id": 5,
+                "label": "Estopas",
+                "_isCorrect": true
+            }
+
+        ],
+        "listAnswers": [],
+        "listLabel": "",
+        "listImgToDrag": "canasta.png",
+        "audio": {
+            "src": "M6_86.mp3"
+        }
+    },
+    {
+        "id": "c-8",
+        "parentId": "m-1",
+        "type": "matching",
+        "title": "Repasemos",
+        "text": "Con el fin de revisar cómo vamos con la comprensión de lo visto hasta el momento, le invitamos a realizar el siguiente ejercicio de apareamiento:",
+        "items": [{
+                "id": 1,
+                "text": "________________ es el procedimiento mediante el cual los operadores determinan manualmente el volumen exacto de producto contenido en el tanque. ",
+                "pair": 5
+            },
+            {
+                "id": 2,
+                "text": "_________________es el procedimiento mediante el cual se extraen muestras del producto a diferentes niveles en un tanque para determinar calidad, sedimentos y contenido de agua. ",
+                "pair": 4
+            },
+            {
+                "id": 3,
+                "text": "Cuando realiza mediciones de nivel o toma de muestras, se debe acercar a _____________________ en el sentido del viento.",
+                "pair": 6
+            },
+            {
+                "id": 4,
+                "text": "El muestreo ",
+                "pair": 2
+            },
+            {
+                "id": 5,
+                "text": "La escotilla de medición ",
+                "pair": 1
+            },
+            {
+                "id": 6,
+                "text": "La medición a fondo (Innage)",
+                "pair": 3
+            }
+        ],
+        "_route": 34,
+        "audio": {
+            "src": "M6_89.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Continuemos con el tema 3: Verificar la capacidad de un tanque y su espacio disponible ",
+        "layout": "full",
+        "text": "Los subtemas que se abordarán a continuación son:",
+        "img": {
+            "src": "pg35.png",
+            "alt": ""
+        },
+        "_route": 35,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Operaciones del tanque",
+        "layout": "full",
+        "text": "",
+        "img": {
+            "src": "pg36.png",
+            "alt": ""
+        },
+        "_route": 36,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-15",
+        "_route": 37,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Llenado de tanques",
+        "text": "La corriente de producto que viaja por un oleoducto se debe desviar hacia el tanque que tenga espacio disponible. Si es necesario antes de que llegue el despacho, se pueden ajustar los sistemas de recuperación de vapor de los tanques apropiados para recibir el producto en particular.",
+        "instruction": "",
+        "links": [{
+            "src": "slide94.pdf",
+            "img": "pg37/1.png"
+        }],
+
+        "items": [{
+            "id": 0,
+            "img": {
+                "src": "pg25/3.png",
+                "alt": ""
+            },
+            "modal": {
+                "title": "Para recordar",
+                "text": "<p>Con el fin de recibir producto en un tanque, el personal debe:</p> <p> Abrir y cerrar la secuencia exacta de válvulas de tal manera que la corriente fluya desde el oleoducto hacia el tanque designado.</p><p>Si falla el actuador de una válvula, se debe preparar manualmente la ruta correcta antes de abrir la válvula de despacho del oleoducto.</p><p>En algunos casos, el flujo debe seguir una ruta alterna a través de filtros, mallas, trampas de marranos y sistemas de medición antes de enviarse hacia un tanque.</p>",
+                "img": {
+                    "src": "pg25/3.png",
+                    "alt": ""
+                }
+            }
+        }],
+
+        "graphic": {
+            "src": "pg37/0.png",
+            "alt": "Identificar productos marcadores"
+        },
+        "audio": {
+            "src": "M6_94.mp3"
+        }
+    },
+    {
+        "id": "c-27",
+        "_route": 38,
+        "parentId": "m-3",
+        "type": "infographic",
+        "title": "Disminución del nivel de fondos y extracción del agua libre",
+        "text": "El sedimento y el contenido de agua en el crudo se depositan gradualmente en el fondo del tanque. A medida que aumenta la cantidad de este depósito, el nivel de agua en el fondo del tanque aumenta hasta el punto en que la altura del nivel de agua es superior al nivel en donde se encuentra la salida de crudo del tanque. Eventualmente el agua se levanta por encima del nivel de la válvula de salida y es imposible retirar crudo desde un tanque sin recibir una gran cantidad de agua antes.",
+        "instruction": "",
+        "pdf": {
+            "src": "slide96.pdf",
+            "name": ""
+        },
+        "graphic": {
+            "src": "imgpdf/dudeslide27.png",
+            "alt": ""
+        },
+        "infopreview": {
+            "src": "imgpdf/pg38.png",
+            "src2x": "imgpdf/negt.png",
+            "alt": ""
+        },
+
+        "audio": {
+            "src": "M6_96.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Drenaje de diques",
+        "layout": "full",
+        "text": "Se construyen diques alrededor de los tanques y de los Patios de Tanques para contener el agua lluvia y los derrames que puedan ocurrir.",
+        "img": {
+            "src": "pg39.png",
+            "alt": ""
+        },
+        "_route": 39,
+        "fuente": "",
+        "audio": {
+            "src": "M6_97.mp3"
+        }
+    },
+    {
+        "id": "c-15",
+        "_route": 40,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Venteo de tanques",
+        "text": "Los tanques se deben ventear bien,  sea que contengan producto o no. Puesto que todos los tanques contienen un cierto nivel de vapores de hidrocarburo, un tanque vacío puede tener un nivel de vapor más peligroso que un tanque lleno. Cuando se están llenando o vaciando los tanques, la parte superior del producto actúa como un pistón gigante en un cilindro y empuja o hala el aire y el vapor.",
+        "instruction": "",
+
+        "items": [{
+            "id": 0,
+            "img": {
+                "src": "pg40/1.png",
+                "alt": ""
+            },
+            "modal": {
+                "title": "Venteo de tanques",
+                "text": "<ul><li>La atmósfera dentro del tanque debe ser permanentemente controlada, bien sea por aspiración lateral o cambiándola mecánicamente.  Si esto no se hace, el llenado de un tanque generará una enorme presión por encima del nivel del producto dentro del tanque ocasionando una potencial rotura del tanque que generaría una explosión.</li><li>El desocupado del tanque puede provocar un enorme vacío que potencialmente puede causar la formación de más vapores lo que haría que el tanque se colapse y genere una explosión.</li></ul>",
+                "img": {
+                    "src": "pg40/1.png",
+                    "alt": ""
+                }
+            }
+        }],
+
+        "graphic": {
+            "src": "pg40/0.png",
+            "alt": "Identificar productos marcadores"
+        },
+        "audio": {
+            "src": "M6_98.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Venteos por presión y vacío ",
+        "layout": "full",
+        "text": "",
+        "img": {
+            "src": "pg41.png",
+            "alt": ""
+        },
+        "_route": 41,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-12",
+        "_route": 42,
+        "parentId": "m-1",
+        "type": "so-in-shot",
+        "title": "Capa de gas",
+        "text": "El movimiento de producto en un tanque ocasiona una cantidad de electricidad estática dentro del tanque y del equipo asociado. Haga clic en las tarjetas para revisar cómo se trata la capa de gas.",
+        "instruction": "Haga clic <b>sobre cada número</b> para recibir la información.",
+        "graphic": {
+            "src": "pg41/0.png",
+            "layout": "full",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "icon": {
+                    "src": "pg20/1.png",
+                    "alt": "Numero 1"
+                },
+                "content": {
+                    "src": "pg41/1a.png",
+                    "alt": "Contenido 1"
+                }
+            },
+            {
+                "id": 2,
+                "icon": {
+                    "src": "pg20/2.png",
+                    "alt": "Numero 2"
+                },
+                "content": {
+                    "src": "pg41/2a.png",
+                    "alt": "Contenido 2"
+                }
+            },
+            {
+                "id": 3,
+                "icon": {
+                    "src": "pg20/3.png",
+                    "alt": "Numero 3"
+                },
+                "content": {
+                    "src": "pg41/3a.png",
+                    "alt": "Contenido 3"
+                }
+            },
+            {
+                "id": 4,
+                "icon": {
+                    "src": "pg41/4.png",
+                    "alt": "Numero 4"
+                },
+                "content": {
+                    "src": "pg41/4a.png",
+                    "alt": "Contenido 4"
+                }
+            }
+
+        ],
+        "audio": {
+            "src": "M6_101.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Recuperación de vapores ",
+        "layout": "full",
+        "text": "",
+        "img": {
+            "src": "pg43.png",
+            "alt": ""
+        },
+        "_route": 43,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-15",
+        "_route": 44,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Recuperación de vapores",
+        "text": "",
+        "instruction": "Haga <b>clic en cada figura</b> para ampliar la información sobre este tema.",
+        "links": [{
+            "src": "slide108.pdf",
+            "img": "pg44/1.png"
+        }],
+
+        "items": [{
+                "id": 0,
+                "img": {
+                    "src": "pg44/2.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "Depurador de succión de vapor de crudo",
+                    "text": "Los vapores que se producen fluyen a través de tuberías hacia la unidad de recuperación de vapores dentro de un depurador por succión. El depurador por succión retorna el líquido atrapado hacia los tanques de producto, mediante las bombas apropiadas. Si se presentan golpes de ariete debido a paradas del oleoducto o reducciones bruscas de la rata de flujo, los vapores que exceden la capacidad de los ventiladores de recuperación de vapor se dirigen directamente al sistema de tea para su quemado.",
+                    "img": {
+                        "src": "pg44/2.png",
+                        "alt": ""
+                    }
+                }
+            },
+            {
+                "id": 1,
+                "img": {
+                    "src": "pg44/3.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "Chimenea de la tea ",
+                    "text": "La chimenea de la tea está ubicada a una distancia segura de todos los tanques y equipos. La capacidad de diseño del sistema de tea se basa en la cantidad de vapores generados por la operación. La capacidad de la tea de no emitir humo se basa en el manejo del vapor generado.",
+                    "img": {
+                        "src": "pg44/3.png",
+                        "alt": ""
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "img": {
+                    "src": "pg44/4.png",
+                    "alt": ""
+                },
+                "modal": {
+                    "title": "Sistemas de recuperación y eliminación de vapores",
+                    "text": "<ul><li>Cuando la presión dentro del tanque aumenta, los vapores generados se pueden desplazar con un ventilador, con control de presión, velocidad variable, de desplazamiento positivo, enviándolos  a la tea como gas de purga.</li><li>Se suministra gas combustible para purga si el flujo de vapor del tanque es menor al que se requiere para sostener la operación de la tea.</li><li>Otros sistemas de recuperación y eliminación de vapores incluyen tanques de membrana flexible y unidades de recuperación de vapor.</li></ul>",
+                    "img": {
+                        "src": "pg44/4.png",
+                        "alt": ""
+                    }
+                }
+            }
+
+        ],
+
+        "graphic": {
+            "src": "pg44/0a.png",
+            "alt": ""
+        },
+        "audio": ""
+    },
+    {
+        "id": "c-16",
+        "_route": 45,
+        "parentId": "m-1",
+        "type": "canasta",
+        "title": "Actividad de aprendizaje",
+        "text": "",
+        "instruction": "Arrastre el <b>enunciado</b> que usted crea correcta a la canasta",
+        "listOptions": [{
+                "id": 1,
+                "label": "La disminución de nivel de fondos y extracción del agua libre es el procedimiento mediante el cual se retira el agua que hay en la parte inferior de un tanque. ",
+                "_isCorrect": true
+            },
+
+            {
+                "id": 2,
+                "label": "Se construyen diques alrededor de los tanques y de los Patios de Tanques para contener el agua lluvia y los derrames que puedan ocurrir.",
+                "_isCorrect": false
+            },
+
+            {
+                "id": 3,
+                "label": "Antes de que llegue el despacho del producto se debe apagar los sistemas de recuperación de vapor de los tanques para recibir un producto en particular.",
+                "_isCorrect": true
+            },
+            {
+                "id": 4,
+                "label": "Un tanque vacío puede tener un nivel de vapor más peligroso que un tanque lleno. ",
+                "_isCorrect": false
+            }
+
+        ],
+        "listAnswers": [],
+        "listLabel": "",
+        "listImgToDrag": "canasta.png",
+        "audio": {
+            "src": "M6_111.mp3"
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Continuemos con el tema 4: verificar la capacidad de un tanque y su espacio disponible ",
+        "layout": "full",
+        "text": "Los subtemas que se abordarán a continuación son:",
+        "img": {
+            "src": "pg46.png",
+            "alt": ""
+        },
+        "_route": 46,
+        "fuente": "",
+        "audio": {
+            "src": ""
+        }
+    },
+    {
+        "id": "c-1",
+        "parentId": "m-1",
+        "type": "graphic",
+        "title": "Válvulas operacionales",
+        "layout": "full",
+        "text": "Los subtemas que se abordarán a continuación son:",
+        "img": {
+            "src": "pg47.png",
+            "alt": ""
+        },
+        "_route": 47,
+        "fuente": "",
+        "audio": {
+            "src": "M6_115.mp3"
+        }
+    },
+    {
+        "id": "c-4",
+        "parentId": "m-1",
+        "type": "slider",
+        "title": "Ubicación de las válvulas",
+        "class": "bg-green",
+        "text": "",
+        "instruction": "Haga clic <b>las flechas</b> de la imagen para obtener más información.<p>Al terminar de leer la información haga clic en la flecha hacia adelante  para obtener más información.</p>",
+        "items": [{
+                "id": 0,
+                "title": "",
+                "_subtype": "",
+                "text": "<p>En el diseño de oleoductos y terminales, las válvulas son colocadas en lugares específicos por motivos y funciones particulares.</p><p>En el Terminal, los múltiples se construyen con un <b>sistema de válvulas</b> de manera que cuando se encuentran en una alineación en particular, el producto <b>se puede desviar hacia el lugar exacto que se desea</b>, mediante la apertura o cierre de una secuencia apropiada de válvulas.</p>",
+                "graphic": {
+                    "src": "pg48/1.png",
+                    "alt": "Múltiple con varias válvulas y actuadores eléctricos controlados remotamente.",
+                    "source": ""
+                }
+            },
+            {
+                "id": 1,
+                "title": "",
+                "_subtype": "",
+                "text": "Se puede dirigir el producto hacia un tanque en particular , un grupo de tanques en el patio de tanques, el equipo de procesamiento, las instalaciones de cargue, o puede despacharse directamente hacia otro oleoducto.",
+                "graphic": {
+                    "src": "pg10/2.png",
+                    "alt": "Válvulas existentes en el múltiple de tanques de una instalación.",
+                    "source": ""
+
+                }
+
+            }
+        ],
+        "_route": 48,
+        "audio": ""
+    },
+    {
+        "id": "c-28",
+        "_route": 49,
+        "parentId": "m-1",
+        "type": "pines",
+        "title": "Alineación de las válvulas",
+        "text": "La apertura y cierre de las válvulas en una secuencia apropiada, también conocida como alineación de válvulas, es una habilidad que se debe dominar.",
+        "instruction": "Haga clic <b>en cada número</b> para ver la información.",
+        "hotgraphic": {
+            "src": "pg49a.png",
+            "alt": ""
+        },
+        "items": [{
+                "id": 1,
+                "title": "",
+                "text": "<p>Las operaciones de oleoductos y de terminales se basan en las secuencias específicas para abrir, cerrar o alinear las válvulas.</p><p>La mayoría de las válvulas tienen un indicador de posición, que es un eje, varilla o apuntador que se extiende desde el vástago de la válvula o mecanismo que indica la posición exacta.</p>",
+                "position": {
+                    "x": 28,
+                    "y": 68
+                }
+            },
+            {
+                "id": 2,
+                "title": "",
+                "text": "<p>Con el fin de arrancar y detener el oleoducto, se deben seguir secuencias muy específicas de cierre y apertura de válvulas a lo largo de varios kilómetros del oleoducto.</p><p>Las válvulas abiertas o cerradas equivocadamente pueden resultar en despachos equivocados, contaminación o pérdida de producto, pérdida de tiempo, de trabajo y, en el peor de los casos,la <b>rotura del oleoducto e incluso en un incidente de proporciones catastróficas.</b></p> ",
+                "position": {
+                    "x": 30,
+                    "y": 77
+                }
+            },
+            {
+                "id": 3,
+                "title": "",
+                "text": "<p>En los terminales, se requieren alineaciones particulares con el fin de que el producto se dirija a los puntos de despacho. Se utilizan algunas válvulas para acelerar el flujo o desviarlo hacia tanques disponibles para aliviar la presión en otra estación. </p><p>Durante emergencias,  se debe estar en capacidad de utilizar todas sus capacidades y conocimiento sobre la ubicación de las válvulas para <b>tomar decisiones rápidas acerca de qué válvulas abrir o cerrar para aliviar situaciones peligrosas.</b></p>",
+                "position": {
+                    "x": 41,
+                    "y": 81
+                }
+            },
+            {
+                "id": 4,
+                "title": "",
+                "text": "Los terminales y estaciones tienen procedimientos de operación estándar con la <b>alineación exacta de las válvulas para dirigir el flujo según las necesidades de la operación. </b>Esta alineación se muestra en diagramas en las instalaciones de control de la estación.",
+                "position": {
+                    "x": 61,
+                    "y": 72
+                }
+            },
+            {
+                "id": 5,
+                "title": "",
+                "text": "Las válvulas están marcadas por números y/o letras, de manera que se pueden ubicar exactamente. Si se presenta un problema y se debe cambiar la estación a control local, el personal del lugar debe conocer muy bien las líneas asociadas a cada tanque, la dirección del flujo en cada líneas, las líneas de Transferencias de Custodia y otros detalles de la operación.",
+                "position": {
+                    "x": 45,
+                    "y": 66
+                }
+            }
+
+        ],
+        "fuente": "",
+        "note": "",
+        "audio": {
+            "src": "M6_118.mp3"
+        }
+    },
+    {
+        "id": "c-15",
+        "_route": 50,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Operación de las válvulas",
+        "text": "",
+        "instruction": "Haga <b>clic en cada figura</b> para ampliar la información sobre este tema.",
+        "links": [{
+            "src": "slide124.pdf",
+            "img": "pg50/0.png"
+        }],
+
+        "graphic": {
+            "src": "pg50/2.png",
+            "alt": ""
+        },
+        "audio": ""
+    },
+    {
+        "id": "c-15",
+        "_route": 51,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Falla de energía",
+        "text": "Una falla total de la energía requiere una acción decisiva. <b>Es probable que se pierda la señal de los indicadores del estado de todas las válvulas eléctricas,</b> aunque se puede seguir el programa de bombeo y de transferencias en curso, si no se para el oleoducto como consecuencia de la falla.",
+        "instruction": "",
+
+        "items": [{
+            "id": 0,
+            "img": {
+                "src": "pg51/1.png",
+                "alt": ""
+            },
+            "modal": {
+                "title": "¿Qué hacer cuando falla la energía?",
+                "text": "En ciertos casos, puede ser necesario desplazar personal a estaciones críticas en lugares remotos. Se deben iniciar llamadas de emergencia (call-outs) de manera que alguien pueda operar las válvulas estratégicas del oleoducto manualmente hasta que se restablezca la energía y se normalicen las condiciones normales de operación.",
+                "img": {
+                    "src": "pg51/1.png",
+                    "alt": ""
+                }
+            }
+        }],
+        "graphic": {
+            "src": "pg51/0.png",
+            "alt": ""
+        },
+        "audio": {
+            "src": "M6_125.mp3"
+        }
+    },
+
+    {
+        "id": "c-15",
+        "_route": 52,
+        "parentId": "m-1",
+        "type": "modals-with-graphic",
+        "layout": "right",
+        "title": "Accesibilidad de las válvulas",
+        "text": "El <b>acceso fácil a todas las válvulas en el patio de tanques y en el oleoducto </b>es esencial para el éxito de todas las operaciones. Si no puede llegar a las válvulas en el patio o en el oleoducto, <b>no es posible controlar la operación.</b>",
+        "instruction": "",
+        "links": [{
+            "src": "slide127.pdf",
+            "img": "pg52/2.png"
+        }],
+        "items": [{
+            "id": 0,
+            "img": {
+                "src": "pg52/3.png",
+                "alt": ""
+            },
+            "modal": {
+                "title": "¿Qué hacer ?",
+                "text": "<p>Atender de inmediato, ya que puede terminar en un incendio o una explosión, resultando en suspensión de la operación, daños al equipo, daños al medio ambiente, lesiones personales o incluso la muerte.</p><p>Si se ve una ocurrencia de este tipo, puede identificar de manera segura un derrame de producto, determinar la fuente de emisión y girar la válvula para cerrarla.  Así, posiblemente se pueda minimizar un evento de riesgo.</p><p>Si el derrame es pequeño y se puede cerrar la fuente del escape rápidamente, el personal del lugar debe iniciar la contención y la limpieza mientras espera por ayuda.</p>",
+                "img": {
+                    "src": "pg52/3.png",
+                    "alt": ""
+                }
+            }
+        }],
+
+        "graphic": {
+            "src": "pg52/0.png",
+            "alt": ""
+        },
+        "audio": ""
+    },
+    {
+        "id": "c-5",
+        "parentId": "m-1",
+        "type": "flipper",
+        "title": "Repasemos",
+        "subtitle": "",
+        "text": "<b>Seleccione las respuestas correctas:</b>",
+        "instruction": "¿Cuáles son las obstrucciones más peligrosas para el acceso a las válvulas?.",
+        "subtext": "Al terminar de revisar el cuadro, haga clic en la flecha de siguiente para continuar.",
+        "items": [{
+                "id": 1,
+                "icon": {
+                    "src": "pg53/1.png",
+                    "alt": "Icono 1"
+                },
+                "content": {
+                    "src": "pg53/1a.png",
+                    "alt": "Contenido 1"
+                }
+            },
+            {
+                "id": 2,
+                "icon": {
+                    "src": "pg53/2.png",
+                    "alt": "Icono 2"
+                },
+                "content": {
+                    "src": "pg53/2a.png",
+                    "alt": "Contenido 2"
+                }
+            },
+            {
+                "id": 3,
+                "icon": {
+                    "src": "pg53/3.png",
+                    "alt": "Icono 3"
+                },
+                "content": {
+                    "src": "pg53/3a.png",
+                    "alt": "Contenido 3"
+                }
+            },
+            {
+                "id": 4,
+                "icon": {
+                    "src": "pg53/4.png",
+                    "alt": "Icono 3"
+                },
+                "content": {
+                    "src": "pg53/4a.png",
+                    "alt": "Contenido 3"
+                }
+            },
+            {
+                "id": 5,
+                "icon": {
+                    "src": "pg53/5.png",
+                    "alt": "Icono 3"
+                },
+                "content": {
+                    "src": "pg53/5a.png",
+                    "alt": "Contenido 3"
+                }
+            },
+            {
+                "id": 6,
+                "icon": {
+                    "src": "pg53/6.png",
+                    "alt": "Icono 3"
+                },
+                "content": {
+                    "src": "pg53/6a.png",
+                    "alt": "Contenido 3"
+                }
+            }
+
+        ],
+        "_route": 53
+    },
+    {
+        "id": "c-33",
+        "_route": 54,
+        "type": "finish",
+        "audio": ""
+    }
+
+]
